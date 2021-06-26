@@ -1,0 +1,11 @@
+{
+    "name": "SCC",
+    "website": "https://sccpro.vip",
+    "description": "Santa Claus Token",
+    "explorer": "https://bscscan.com/token/0xb49466271AD46e4329C2310C7Ef4a207792d5848",
+    "type": "BEP20",
+    "symbol": "SCC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xb49466271AD46e4329C2310C7Ef4a207792d5848"
+}
